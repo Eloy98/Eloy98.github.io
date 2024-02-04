@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>分体 on 旗木卡卡西</title>
+        <link>https://Eloy98.github.io/categories/%E5%88%86%E4%BD%93/</link>
+        <description>Recent content in 分体 on 旗木卡卡西</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Peculiar-lab</copyright>
+        <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Eloy98.github.io/categories/%E5%88%86%E4%BD%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Swoop使用教程</title>
+        <link>https://Eloy98.github.io/p/swoop%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://Eloy98.github.io/p/swoop%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</guid>
+        <description>&lt;img src="https://res.cloudinary.com/dref0olos/image/upload/keyboard/swoop/ew8cf1vsmfvxyba6df1x.jpg" alt="Featured image of post Swoop使用教程" /&gt;&lt;h1 id=&#34;swoop使用教程&#34;&gt;swoop使用教程&lt;/h1&gt;
+&lt;h2 id=&#34;键盘须知&#34;&gt;键盘须知&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;键盘开关往左拨，是开启蓝牙，充电需要打开开关&lt;/li&gt;
+&lt;li&gt;键盘重置按钮在耳机孔附近，需要拿镊子或者牙签双击，即可进去刷机模式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;固件烧录&#34;&gt;固件烧录&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;左右手分别连接电脑，双击重置按钮进入bl&lt;/li&gt;
+&lt;li&gt;电脑弹出u盘，拖入left固件进左手，right固件进右手，完成烧录&lt;/li&gt;
+&lt;li&gt;重置步骤，在烧录固件之前，先拖入reset固件，断电重新插入电脑，完成上面步骤&lt;/li&gt;
+&lt;li&gt;注：更改键值只需烧录左手固件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;改键&#34;&gt;改键&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;登录https://nickcoutsos.github.io/keymap-editor 网站&lt;/li&gt;
+&lt;li&gt;选择固件仓库&lt;/li&gt;
+&lt;li&gt;更改键值&lt;/li&gt;
+&lt;li&gt;详细操作移步到zmk改键教程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>Tako使用教程</title>
+        <link>https://Eloy98.github.io/p/tako%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://Eloy98.github.io/p/tako%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</guid>
+        <description>&lt;img src="https://res.cloudinary.com/dref0olos/image/upload/e_improve:indoor/keyboard/tako/rn9sqhp19tial6mhjrny.jpg" alt="Featured image of post Tako使用教程" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
